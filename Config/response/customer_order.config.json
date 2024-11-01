@@ -1,0 +1,21 @@
+{    
+    "SiteID":"{{ config.campaign_id }}",
+    "FirstName": "{{ billing.first_name }}",
+    "LastName": "{{ billing.last_name }}",
+    "Email": "{{ billing.email }}",
+    "Phone": "{{ billing.phone }}",
+    "Address1": "{{ shipping.address_1 }}",
+    "Address2": "{{ shipping.address_2 }}",
+    "ZipCode": "{{ shipping.postcode }}",
+    "City": "{{ shipping.city }}",
+    "State": "{{ shipping.state }}",
+    "CountryISO": "{{ shipping.country }}",
+    "IpAddress":"{{ ip_address }}",
+    "AffiliateID":"{{ affiliate_param.affiliateid }}",
+    "SubAffiliateID":"{{ affiliate_param.subaffiliateid1 }}",
+    "SubAffiliateID2":"{{ affiliate_param.subaffiliateid2 }}",
+    "SubAffiliateID3":"{{ affiliate_param.subaffiliateid3 }}",
+    "SubAffiliateID4":"{{ affiliate_param.subaffiliateid4 }}",
+    "SubAffiliateID5":"{{ affiliate_param.subaffiliateid5 }}"
+
+}

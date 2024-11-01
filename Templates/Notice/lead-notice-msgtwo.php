@@ -1,0 +1,1 @@
+Your free trial has expired. To Continue <a href="<?php echo esc_url_raw(admin_url('admin.php?page=unify-dashboard&section=free-trial-license-registration')); ?>">Click here</a> to register your free Unify license!

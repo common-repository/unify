@@ -1,0 +1,23 @@
+{   
+    "CustomerID": "{{ customer_id }}",
+    "IpAddress": "{{ ip_address }}",
+    "{array2: billing, BillingAddress }": {
+        "FirstName": "first_name",
+        "LastName": "last_name",
+        "Address1": "address_1",
+        "Address2": "address_2",
+        "City": "city",
+        "CountryISO": "country",
+        "State": "state",
+        "ZipCode": "postcode"
+    },
+    "{array2: card, PaymentInformation }": {
+      "ExpMonth": "exp_month",
+      "ExpYear": "exp_year",
+      "CCNumber": "number",
+      "NameOnCard": "name_on_card",
+      "CVV": "cvc"
+    }
+}
+
+  

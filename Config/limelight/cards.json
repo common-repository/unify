@@ -1,0 +1,11 @@
+{
+    "American Express": "amex",
+    "Visa": "visa",
+    "Mastercard": "master",
+    "DI": "discover",
+    "Switch": "switch",
+    "DN": "diners",
+    "Solo": "solo",
+    "Maestro": "maestro",
+    "Discover": "discover"
+}

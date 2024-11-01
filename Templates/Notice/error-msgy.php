@@ -1,0 +1,1 @@
+<div class="notice notice-error"><p>'<?php echo esc_html($msg) ?>'</p></div>
